@@ -135,6 +135,11 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
+                    <a href={props.data ? props.data.linktree : "/"}>
+                      <img src="../img/logos/linktree.jpg" alt="LinkTree" style={{ width: "50px", borderRadius: "50px" }} />
+                    </a>
+                  </li>
+                  <li>
                     <a href={props.data ? props.data.coinmarketcap : "/"}>
                       <img src="../img/logos/cmc.svg" alt="CoinMarketCap" style={{ width: "50px" }} />
                     </a>
