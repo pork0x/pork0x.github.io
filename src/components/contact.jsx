@@ -165,7 +165,7 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.groverx : "/"}>
+                    <a href={props.data ? props.data.dune : "/"}>
                       <img src="../img/logos/dune.svg" alt="Dune" style={{ width: "50px" }} />
                     </a>
                   </li>
