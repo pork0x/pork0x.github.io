@@ -159,11 +159,11 @@ export const Contact = (props) => {
                       <img src="../img/logos/dune.svg" alt="Dune" style={{ width: "50px" }} />
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.groverx : "/"}>
-                      <img src="../img/logos/dune.svg" alt="Dune" style={{ width: "50px" }} />
+                      <img src="../img/logos/groverx.svg" alt="Dune" style={{ width: "50px" }} />
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
