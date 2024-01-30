@@ -130,6 +130,11 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
+                    <a href={props.data ? props.data.twitter : "/"}>
+                      <i className="fa fa-twitter" style={{ width: "50px" }}></i>
+                    </a>
+                  </li>
+                  <li>
                     <a href={props.data ? props.data.coinmarketcap : "/"}>
                       <img src="../img/logos/cmc.svg" alt="CoinMarketCap" style={{ width: "50px" }} />
                     </a>
@@ -173,10 +178,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            &copy; 2024 <a href="https://twitter.com/riceboy26">J Wong</a> + the <a href="https://twitter.com/pork0x">$PORK community</a>. Made with ❤️ in a pond far away.
           </p>
         </div>
       </div>
