@@ -1,0 +1,79 @@
+{
+    "Header": {
+        "title": "PepeFork ($PORK)",
+        "paragraph": "Official Fork of $PEPE, the People's Token. Born January 30, 2024."
+    },
+    "About": {
+        "paragraph": "Due to disappointment and mistrust of the core $PEPE team, the Pond0x community has taken matter into its own hands. Pauly0x created $PORK to deliver wins to the people.",
+        "Why": [
+            "Pauly0x holds 0 $PORK",
+            "The $PEPE community needs a home",
+            "Transparent",
+            "Best holder distribution (No Whales own over 2.5%)"
+        ],
+        "Why2": [
+            "Born on January 30",
+            "Minted at midnight",
+            "Contributes to Pond0x ecosystem",
+            "The People's True Token"
+        ]
+    },
+    "Team": [
+        {
+            "img": "img/team/pepe_hugging_pork.jpg",
+            "name": "Pepe Hugging Pork",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/pepe_in_bling.jpg",
+            "name": "Pork in Bling",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/pepe_in_pink.jpg",
+            "name": "Pepe in Pink",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/pink_pepe_in_the_lab.jpg",
+            "name": "Pork cooking in da lab",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com",
+        "dextools": "https://www.dextools.io/app/en/ether/pair-explorer/0x331399c614ca67dee86733e5a2fba40dbb16827c",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/pepefork/",
+        "coingecko": "https://www.coingecko.com/en/coins/pork",
+        "Lbank": "https://www.lbank.com/trade/pork_usdt/",
+        "pond0x": "https://www.pond0x.com/",
+        "dune": "https://dune.com/mogie/pond-dex"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
