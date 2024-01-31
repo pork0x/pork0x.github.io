@@ -9,3 +9,7 @@ Designed and implemented with ❤️ in a pond far away.
 
 **
 
+## To deploy
+```
+npm run deploy
+```
